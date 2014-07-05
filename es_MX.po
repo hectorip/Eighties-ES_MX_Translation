@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Eighties 1.0.0\n"
+"POT-Creation-Date: 2014-05-21 00:03+0900\n"
+"PO-Revision-Date: 2014-07-05 17:38-0600\n"
+"Last-Translator: \n"
+"Language-Team: Justin Kopepasah <justin@kopepasah.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n_noop;translate_nooped_plural\n"
+"X-Generator: Poedit 1.6.6\n"
+"Language: es_MX\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "404"
+msgstr "404"
+
+#: 404.php:19
+msgid "Your request was not found."
+msgstr "Página no encontrada."
+
+#: 404.php:24
+msgid "Perhaps try a search?"
+msgstr "¿Quieres intentar hacer una búsqueda?"
+
+#: archive.php:29
+#, php-format
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: archive.php:32
+#, php-format
+msgid "Day: %s"
+msgstr "Día: %s"
+
+#: archive.php:35
+#, php-format
+msgid "Month: %s"
+msgstr "Mes: %s"
+
+#: archive.php:35
+msgid "F Y"
+msgstr "P T"
+
+#: archive.php:38
+#, php-format
+msgid "Year: %s"
+msgstr "Año :%s"
+
+#: archive.php:38
+msgid "Y"
+msgstr "S"
+
+#: archive.php:41
+msgid "Asides"
+msgstr "Disgresiones"
+
+#: archive.php:44
+msgid "Galleries"
+msgstr "Galerías"
+
+#: archive.php:47
+msgid "Images"
+msgstr "Imágenes"
+
+#: archive.php:50
+msgid "Videos"
+msgstr "Videos"
+
+#: archive.php:53
+msgid "Quotes"
+msgstr "Citas"
+
+#: archive.php:56
+msgid "Links"
+msgstr "Links"
+
+#: archive.php:59
+msgid "Statuses"
+msgstr "Estatus"
+
+#: archive.php:62
+msgid "Audios"
+msgstr "Audio"
+
+#: archive.php:65
+msgid "Chats"
+msgstr "Chats"
+
+#: archive.php:68
+msgid "Archives"
+msgstr "Archivos"
+
+#: comments.php:35
+msgid "Leave a reply..."
+msgstr "Deja una respuesta..."
+
+#: comments.php:37
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: comments.php:38
+msgid "Submit Reply"
+msgstr "Enviar Respuesta"
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr "Comentarios no permitidos."
+
+#: comments.php:59
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:60
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:61
+msgid "Newer Comments"
+msgstr "Comentarios recientes"
+
+#: content-aside.php:17 content-audio.php:16 content-single.php:13
+#: content-video.php:16
+msgid ", "
+msgstr ","
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "No se encontró algo relevante."
+
+#: content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"¿Listo para publicar tu primer post? <a href=\"%1$s\">Empieza aquí.</a>."
+
+#: content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+"No pudimos encontrar nada con los términos de búsqueda. Por favor intenta "
+"otra vez con otras palabras."
+
+#: content-none.php:30
+msgid "It seems we cannot find what you are looking for. Perhaps try a search?"
+msgstr "No podemos encontrar lo que buscas. ¿Quieres hacer una búsqueda?"
+
+#: content-page.php:20 content-single.php:32
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: footer.php:19
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:19
+#, php-format
+msgid "Built with %s"
+msgstr "Hecho con %s"
+
+#: footer.php:21
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema:  %1$s by %2$s."
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr "Menú Principal"
+
+#: functions.php:82
+msgid "Interactive Sidebar"
+msgstr "Barra lateral Intercativa"
+
+#: functions.php:84
+msgid ""
+"This sidebar opens as a toggle on the right side of a users browser window. "
+"Note that the toggle feature requires JavaScript in order to function. But "
+"no need to worry, a plain sidebar will appear if JavaScript does not work. "
+"If empty, the sidebar with not display."
+msgstr ""
+"Esta barra aparece en lado derecho de la pantalla de navegación del usuario. "
+"Se necesita JavaScript para que la barra aparezca. Pero no te preocupes, una "
+"barra sin efectos aparecerá si no se tiene activado JavaScript. Si está "
+"vacía, la barra no aparecerá."
+
+#: functions.php:93
+msgid "Footer"
+msgstr "Footer"
+
+#: functions.php:95
+msgid ""
+"Widget area for the footer. If no widgets are provided, this footer will not "
+"appear."
+msgstr ""
+"Área de widgets para el footer. Si no se tiene activado ningún widget, este "
+"footer no aparecerá."
+
+#: functions.php:117 functions.php:137 functions.php:157
+msgid "on"
+msgstr "encendido"
+
+#: header.php:37
+msgid "Skip to content"
+msgstr "Contenido"
+
+#: inc/extras.php:92
+#, php-format
+msgid "Page %s"
+msgstr "Página %s"
+
+#: inc/extras.php:195 sidebar.php:15
+msgid "Close"
+msgstr "Cerrar"
+
+#: inc/jetpack.php:37
+msgid "Load More"
+msgstr "Cargar más"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navegar Posts"
+
+#: inc/template-tags.php:27
+msgid "Older Posts"
+msgstr "Post más antiguos"
+
+#: inc/template-tags.php:31
+msgid "Newer Posts"
+msgstr "Post más recientes"
+
+#: inc/template-tags.php:54
+msgid "Post navigation"
+msgstr "Navegación del Post"
+
+#: inc/template-tags.php:57 inc/template-tags.php:58
+msgid "%title"
+msgstr "%title"
+
+#: inc/template-tags.php:84
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">Publicado el %1$s</span><span class=\"byline\"> "
+"por %2$s</span>"
+
+#: inc/template-tags.php:113
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:122
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:131
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está en moderación."
+
+#: inc/template-tags.php:181
+#, php-format
+msgid "%s Day Ago"
+msgstr "Hace %s  días"
+
+#: inc/template-tags.php:189
+#, php-format
+msgid "%s Hour Ago"
+msgstr "Hace %s horas"
+
+#: inc/template-tags.php:197
+#, php-format
+msgid "%s Minute Ago"
+msgstr "Hace %s minutos "
+
+#: inc/template-tags.php:203
+msgid "Just now"
+msgstr "Justo ahora"
+
+#: search.php:18
+msgid "Results"
+msgstr "Rasultados"
